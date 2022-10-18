@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  aakash kr. sethi 
-- 👀 I’m interested in making  applications
+- 👀 I’m interested in making  GaMes
 - 🌱 I’m currently learning  python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
